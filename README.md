@@ -9,5 +9,5 @@
 An application where the user can enter their purchases 
 using the form provided and keep track of their expenses 
 throughout the year by clicking the Add New Expense button. 
-Also filter through the different years using the dropdown
-menu. 
+Also filter through the different years using the dropdown menu. 
+The form can be closed by clicking the Cancel button.
